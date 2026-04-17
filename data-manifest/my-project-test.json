@@ -1,0 +1,8 @@
+{
+  "project": "my-project",
+  "filename": "test.zip",
+  "category": "archives",
+  "s3_path": "s3://testingknowledgebas/my-project/prod/archives/test-2026-04-17.zip",
+  "version": "v4",
+  "uploaded_at": "2026-04-17T09:53:22.393751"
+}

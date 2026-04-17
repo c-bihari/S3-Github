@@ -1,0 +1,8 @@
+{
+  "project": "PUMAA",
+  "filename": "test.zip",
+  "category": "archives",
+  "s3_path": "s3://testingknowledgebas/PUMAA/test.zip",
+  "version": "v6",
+  "uploaded_at": "2026-04-17T14:40:55.340057"
+}
